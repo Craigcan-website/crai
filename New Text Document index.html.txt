@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>Joe Jobscan - Resume</title>
+</head>
+<body>
+    <!-- Navigation Menu -->
+    <!-- Add your navigation menu here (see example below) -->
+
+    <!-- About Section -->
+    <section id="about">
+        <h1>Joe Jobscan</h1>
+        <p>Data Analytics Leader and Systems Project Manager with over 20 years of experience...</p>
+        <!-- Add your profile picture here -->
+    </section>
+
+    <!-- Skills and Accomplishments Section -->
+    <section id="skills">
+        <!-- List your technical skills and accomplishments here -->
+    </section>
+
+    <!-- Work Experience Section -->
+    <section id="work-experience">
+        <h2>Work Experience</h2>
+        <p>Manager, Decision Support Measures and Metrics | Cardinal H</p>
+        <!-- Add more work experience details -->
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Details</h2>
+        <ul>
+            <li>Seattle, WA 98101</li>
+            <li>Email: <a href="mailto:joejobscan@jobscan.co">joejobscan@jobscan.co</a></li>
+            <li>LinkedIn: <a href="https://linkedin.com/in/joejobscan">linkedin.com/in/joejobscan</a></li>
+        </ul>
+    </section>
+</body>
+</html>
